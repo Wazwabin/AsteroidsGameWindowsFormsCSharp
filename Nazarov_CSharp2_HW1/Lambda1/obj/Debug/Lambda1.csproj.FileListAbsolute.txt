@@ -1,0 +1,7 @@
+C:\Users\Wazwabin\source\repos\Nazarov_CSharp2_HW1\Lambda1\bin\Debug\Lambda1.exe.config
+C:\Users\Wazwabin\source\repos\Nazarov_CSharp2_HW1\Lambda1\bin\Debug\Lambda1.exe
+C:\Users\Wazwabin\source\repos\Nazarov_CSharp2_HW1\Lambda1\bin\Debug\Lambda1.pdb
+C:\Users\Wazwabin\source\repos\Nazarov_CSharp2_HW1\Lambda1\obj\Debug\Lambda1.csprojResolveAssemblyReference.cache
+C:\Users\Wazwabin\source\repos\Nazarov_CSharp2_HW1\Lambda1\obj\Debug\Lambda1.csproj.CoreCompileInputs.cache
+C:\Users\Wazwabin\source\repos\Nazarov_CSharp2_HW1\Lambda1\obj\Debug\Lambda1.exe
+C:\Users\Wazwabin\source\repos\Nazarov_CSharp2_HW1\Lambda1\obj\Debug\Lambda1.pdb

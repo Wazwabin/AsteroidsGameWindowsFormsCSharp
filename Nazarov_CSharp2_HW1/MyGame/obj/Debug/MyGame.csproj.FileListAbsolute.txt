@@ -1,0 +1,9 @@
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\bin\Debug\MyGame.exe.config
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\bin\Debug\MyGame.exe
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\bin\Debug\MyGame.pdb
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\obj\Debug\MyGame.exe
+c:\users\wazwabin\source\repos\Nazarov_CSharp2_HW1\MyGame\obj\Debug\MyGame.pdb
